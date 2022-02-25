@@ -643,18 +643,25 @@ def brute_force():
 
             for contrib in Contribs:
 
-                contrib_skill_level=contrib.skills.get(skill_index)
+                contrib_index=contrib.contrib_index
 
-                if contrib_skill_level:
-                    if contrib_skill_level >= level:
-
-                        # print()
-                        project_contribs.append(contrib.contrib_index)
-                        break
+                if not contrib_index in project_contribs:
+               
+                    contrib_skill_level=contrib.skills.get(skill_index)
 
 
 
-        planned_projects.append((project.project_index,project_contribs))
+                    if contrib_skill_level:
+                        if contrib_skill_level >= level:
+                            
+                            # print()
+                            project_contribs.append(contrib_index)
+                            break
+
+        
+        if len(project.skills_list) == len(project_contribs):
+
+            planned_projects.append((project.project_index,project_contribs))
 
 
     print(planned_projects)

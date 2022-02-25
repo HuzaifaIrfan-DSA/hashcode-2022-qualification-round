@@ -1,12 +1,12 @@
 
 import datetime
 
-file_name='a_an_example'
+# file_name='a_an_example'
 # file_name='b_better_start_small'
 # file_name='c_collaboration'
 # file_name='d_dense_schedule'
 # file_name='e_exceptional_skills'
-# file_name='f_find_great_mentors'
+file_name='f_find_great_mentors'
 
 file_name_in = f'input/{file_name}.in.txt'
 file_name_out=f'output/{file_name}.out.txt'
@@ -36,16 +36,16 @@ reset()
 
 brute_force()
 
-simulate()
+# simulate()
 
-score=calculate_score()
+# score=calculate_score()
 
 
 
 save_output(file_name_out)
 
 
-print(f'Final Score: {score}')
+# print(f'Final Score: {score}')
 
 # draw()
 # draw_signals()
