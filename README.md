@@ -1,20 +1,40 @@
-# Hashcode-Qualification-2022
+# Hashcode Qualification 2022
 
-Final Score in Practice Mode
-1,576,927
+**`Final Score in Practice Mode: 1,576,927`**
+
+## ✅ In Round Results
+```json
+    {
+      "rank": 8204,
+      "name": "Doodh Patti++",
+      "score": 33,
+      "country": "Pakistan",
+      "competitors_countries": [
+        "Pakistan",
+        "Pakistan",
+        "Pakistan"
+      ],
+      "tests_scores": [
+        33,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+```
 
 
-## 🤝🏻 &nbsp;Connect with Me
+# 📚 References
+https://github.com/pierreavn/google-hashcode-archive/tree/main/archive/2022/qualification
 
-<p align="center">
-<a href="https://www.huzaifairfan.com"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/huzaifairfan/"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/HuzaifaIrfan/"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-4078c0?style=flat&logo=Github&logoColor=white"/></a>
-<a href="mailto:contact@huzaifairfan.com"><img src="https://img.shields.io/badge/-contact@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/huzaifairfan2001/"><img src="https://img.shields.io/badge/-@huzaifairfan2001-cd486b?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/huzaifairfan2001/"><img src="https://img.shields.io/badge/-@huzaifairfan2001-4267B2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+# 🤝🏻 Connect with Me
 
-## License
+[![GitHub](https://img.shields.io/badge/Github-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
+[![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
+[![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
+
+# 📜 License
 
 Licensed under the MIT License, Copyright 2023 Huzaifa Irfan. [LICENSE](LICENSE)
